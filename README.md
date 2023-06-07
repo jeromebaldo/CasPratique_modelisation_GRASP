@@ -3,7 +3,7 @@
 ## Contexte et objectifs de l'application 
 Ce laboratoire a été réalisé durant le cours de modélisation au sein de l'UQAC.
 
-Après une étude l'architecture d'une application cible(SIMWar.vpp), le projet consiste à analyser sous l'angle de la philosophie GRASP plusieurs classes mais aussi de donner son avis sur la conception de certaines. Les consignes sont dans le fichier modelisation2.pdf. Il n'y a de développement dans ce projet. 
+Après une étude l'architecture d'une application cible(SIMWar.vpp), le projet consiste à analyser sous l'angle de la philosophie GRASP plusieurs classes mais aussi de donner son avis sur la conception de certaines. Les consignes sont dans le fichier modelisation2.pdf. Il n'y a pas de développement dans ce projet. 
 
 Les objectifs sont :
 - identifier les patrons GRASP relié aux choix de conception pour les sections prédéfinies dans les consignes
